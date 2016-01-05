@@ -7,7 +7,6 @@ console.log(calc.calcTotal(5));
 
 var albumy = require('./albums')
 console.log(albumy[5]);
-// console.log(albumy.myAlbums[5]);
 
 
 var backpack  = require('./backpack');
